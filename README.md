@@ -1,10 +1,10 @@
 # Project Title
 
-Simple overview of use/purpose.
+Ramen rating app
 
 ## Description
 
-An in-depth paragraph about your project and overview of use.
+A ramen rating app that rates ramen dishes of restorants and also adds and remove them
 
 ## Getting Started
 
@@ -28,16 +28,16 @@ code blocks for commands
 
 ## Help
 
-Any advise for common problems or issues.
+Any advice for common problems or issues.
 ```
-command to run if program contains helper info
+command to run if programm contains helper info
 ```
 
 ## Authors
 
 Contributors names and contact info
 
-Calebbii 
+rejo132
 
 
 ## Version History
